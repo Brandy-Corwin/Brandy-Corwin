@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello! I'm Brandy Corwin!
 
-<!--
-**Brandy-Corwin/Brandy-Corwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+<a href="https://www.linkedin.com/in/brandy-corwin-2340b1269/">
+  <img align="left" alt="Brandy's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Brandy-Corwin">
+  <img align="left" alt="Brandy's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://brandy-corwin.github.io/">
+  <img align="left" alt="Brandy's Website" width="100px" src="https://img.shields.io/badge/personal_website-blue" />
+</a>
+<br><br>
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently an undergraduate student at the University of Wisconsin - Eau Claire where I am getting my Bachalor's degree in Bioinformatics with a minor in Computer Science. 
+
+| <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandy-Corwin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brandy's github stats" /></a> | <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandy-Corwin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
