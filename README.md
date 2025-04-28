@@ -7,16 +7,21 @@
 <a href="https://github.com/Brandy-Corwin">
   <img align="left" alt="Brandy's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://brandy-corwin.github.io/">
-  <img align="left" alt="Brandy's Website" width="100px" src="https://img.shields.io/badge/personal_website-blue" />
-</a>
 <br><br>
 
-**About Me**
+## About Me
 
-I am currently an undergraduate student at the University of Wisconsin - Eau Claire where I am getting my Bachalor's degree in Bioinformatics with a minor in Computer Science. 
+I am currently an undergraduate student at the University of Wisconsin - Eau Claire where I am getting my Bachalor's degree in Bioinformatics with a minor in Computer Science. I am graduating May 2025 and will then be getting my Master's degree in Bioinformatics at the University of Oregon.
 
-| <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandy-Corwin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brandy's github stats" /></a> | <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandy-Corwin&layout=compact&theme=buefy&hide_border=true" /></a> |
+If you would like to know more about my work, check out my [personal website](https://brandy-corwin.github.io/).
+
+**Languages:** C, Java, Python, R, MySQL
+
+| <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandy-Corwin&show_icons=true&include_all_commits=true&theme=nord_dark&hide_border=true" alt="Brandy's github stats" /></a> | <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandy-Corwin&layout=compact&theme=nord_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brandy-Corwin&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brandy-Corwin&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brandy-Corwin&theme=nord_dark">
+</picture>
