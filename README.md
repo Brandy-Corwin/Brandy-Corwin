@@ -11,11 +11,11 @@
 
 ## About Me
 
-I am currently a graduate student getting a master's in bioinformatics/genomics from the Knight Campus Graduate Internship Program at the University of Oregon. I have a Bachalor's degree in Bioinformatics with a minor in Computer Science from the University of Wisconsin - Eau Claire. I am graduated in May 2025.
+I am currently a graduate student getting a master's in bioinformatics/genomics from the Knight Campus Graduate Internship Program at the University of Oregon. I have a Bachalor's degree in Bioinformatics with a minor in Computer Science from the University of Wisconsin - Eau Claire where I graduated in May 2025.
 
 If you would like to know more about my work, check out my [personal website](https://brandy-corwin.github.io/).
 
-**Languages:** C, Java, Python, R, MySQL
+**Languages:** bash, C, Java, Python, R, MySQL
 
 | <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandy-Corwin&show_icons=true&include_all_commits=true&theme=nord_dark&hide_border=true" alt="Brandy's github stats" /></a> | <a href="https://github.com/Brandy-Corwin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandy-Corwin&layout=compact&theme=nord_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
