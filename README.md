@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am currently a graduate student getting a master's in bioinformatics/genomics from the Knight Campus Graduate Internship Program at the University of Oregon. I have a Bachalor's degree in Bioinformatics with a minor in Computer Science from the University of Wisconsin - Eau Claire where I graduated in May 2025.
+I am currently a graduate student getting a master's in bioinformatics/genomics from the Knight Campus Graduate Internship Program at the University of Oregon and am graduation in December 2026. I have a Bachalor's degree in Bioinformatics with a minor in Computer Science from the University of Wisconsin - Eau Claire where I graduated in May 2025.
 
 If you would like to know more about my work, check out my [personal website](https://brandy-corwin.github.io/).
 
